@@ -1,1 +1,2 @@
-<h1> Laravel-Socialite </h1>
+# Laravel-Socialite
+## This Project is a demo for using Laravel-Socialite Package
